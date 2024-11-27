@@ -14,7 +14,7 @@ To get started with either the initial setup or the final version, follow these 
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/xylend-dev/telegram-mini-app-game.git
+    git clone https://github.com/kavorix/telegram-mini-app-game.git
     cd telegram-mini-app-game
     ```
 
