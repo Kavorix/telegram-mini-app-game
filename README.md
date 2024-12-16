@@ -1,9 +1,6 @@
-# Telegram mini app game
+# Telegram mini app game - crazy rush heroes
 
-## Overview
-
-1. **Initial Setup**: Provides the foundational structure and assets needed to build the full application.
-2. **Final Version**: The completed application with all functionalities.
+Get ready for a heart-pounding, nonstop adventure with Monster Blitz: Arrow Fury, an action-packed Telegram mini-app that challenges your reflexes and strategy! Shoot arrows, trigger explosive chain reactions, and plow through waves of malicious monsters while collecting loot and powering up. 
 
 ## Getting Started
 
